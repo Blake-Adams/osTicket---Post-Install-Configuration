@@ -49,7 +49,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 - Admin Panel -> Agents -> Departments
-- SysAdmins
+- We're going to choose the Top Level Department to make sure we give full access to this department.
+- We will name this department SysAdmins
 
 </p>
 <br />
