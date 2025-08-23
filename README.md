@@ -47,6 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <br />
+
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 - Admin Panel -> Agents -> Departments
 - We're going to choose the Top Level Department to make sure we give full access to this department.
@@ -56,9 +57,42 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1322" height="708" alt="image" src="https://github.com/user-attachments/assets/3bada3b3-6520-4862-bbbf-6bfdbc486572" />
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br />
+
+- Configure Teams
+Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
+Online Banking
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
 </p>
 <br />
