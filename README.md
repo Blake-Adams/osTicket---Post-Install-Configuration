@@ -78,7 +78,20 @@ Registration Required: Require registration and login to create tickets
 
 
 </p>
+<img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/73fe0ac7-dded-4195-a500-d535df468445" />
+
+<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/14c44c4e-43d7-4991-811b-3eb2c2b8dd3f" />
+
+
+</p>
 <br />
+
+Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane (Dept: SysAdmins)
+John (Dept: Support)
+
+
 
 
 </p>
@@ -88,10 +101,10 @@ Registration Required: Require registration and login to create tickets
 </p>
 <br />
 
-
-</p>
-<br />
-
+- Configure Users (customers)
+- Agent Panel -> Users -> Add New
+- Karen
+- Ken
 
 </p>
 <br />
