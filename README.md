@@ -67,11 +67,14 @@ Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
 
 </p>
-<br />
+<img width="1350" height="762" alt="image" src="https://github.com/user-attachments/assets/3463d795-d385-438e-b5d0-96f9f20b6e1b" />
 
 
 </p>
 <br />
+Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
+Registration Required: Require registration and login to create tickets 
 
 
 </p>
