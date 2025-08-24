@@ -30,20 +30,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="1149" height="571" alt="image" src="https://github.com/user-attachments/assets/6b704daa-02c5-4538-88c9-2054f2379fb3" />
-
-</p>
-<br />
 
 - Configure Roles (for grouping permissions)
 - Admin Panel -> Agents -> Roles
 - Create Supreme Admin and give them all permissions
 
-</p>
 <br />
-
-<p>
-<img width="1328" height="690" alt="image" src="https://github.com/user-attachments/assets/9c426e46-32d4-44d8-84ba-d2190c5bd1bd" />
+  
+<img width="1149" height="571" alt="image" src="https://github.com/user-attachments/assets/6b704daa-02c5-4538-88c9-2054f2379fb3" />
 
 </p>
 <br />
@@ -57,7 +51,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img width="1322" height="708" alt="image" src="https://github.com/user-attachments/assets/3bada3b3-6520-4862-bbbf-6bfdbc486572" />
+<img width="1328" height="690" alt="image" src="https://github.com/user-attachments/assets/9c426e46-32d4-44d8-84ba-d2190c5bd1bd" />
 
 </p>
 <br />
@@ -67,21 +61,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Online Banking
 
 </p>
-<img width="1350" height="762" alt="image" src="https://github.com/user-attachments/assets/3463d795-d385-438e-b5d0-96f9f20b6e1b" />
+<br />
 
+<p>
+<img width="1322" height="708" alt="image" src="https://github.com/user-attachments/assets/3bada3b3-6520-4862-bbbf-6bfdbc486572" />
 
 </p>
 <br />
 
 - Allow anyone to create tickets
 - Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
-- Registration Required: Require registration and login to create tickets 
+- Registration Required: Require registration and login to create tickets
 
+<br />
 
 </p>
-<img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/73fe0ac7-dded-4195-a500-d535df468445" />
-
-<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/14c44c4e-43d7-4991-811b-3eb2c2b8dd3f" />
+<img width="1350" height="762" alt="image" src="https://github.com/user-attachments/assets/3463d795-d385-438e-b5d0-96f9f20b6e1b" />
 
 
 </p>
@@ -91,6 +86,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Admin Panel -> Agents -> Add New
 - Jane (Dept: SysAdmins)
 - John (Dept: Support)
+
+<br />
+</p>
+<img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/73fe0ac7-dded-4195-a500-d535df468445" />
+
+<img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/14c44c4e-43d7-4991-811b-3eb2c2b8dd3f" />
+
+
+</p>
+<br />
+
+- Configure Users (customers)
+- Agent Panel -> Users -> Add New
+- Karen
+- Ken
 
 
 
@@ -103,10 +113,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-- Configure Users (customers)
-- Agent Panel -> Users -> Add New
-- Karen
-- Ken
+- Configure SLA
+- Admin Panel -> Manage -> SLA
+- Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+- Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+- Sev-C (Grace Period: 8 hours, Business Hours)
+
 
 </p>
 <br />
