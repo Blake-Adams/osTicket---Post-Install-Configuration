@@ -63,8 +63,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 - Configure Teams
-Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
-Online Banking
+- Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
+- Online Banking
 
 </p>
 <img width="1350" height="762" alt="image" src="https://github.com/user-attachments/assets/3463d795-d385-438e-b5d0-96f9f20b6e1b" />
@@ -87,10 +87,10 @@ Online Banking
 </p>
 <br />
 
-Configure Agents (workers)
-Admin Panel -> Agents -> Add New
-Jane (Dept: SysAdmins)
-John (Dept: Support)
+- Configure Agents (workers)
+- Admin Panel -> Agents -> Add New
+- Jane (Dept: SysAdmins)
+- John (Dept: Support)
 
 
 
@@ -130,6 +130,11 @@ John (Dept: Support)
 
 </p>
 <br />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/bc68e65a-7afb-4fea-b1a0-3eee280aa003" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/967c58fd-c760-4331-8140-6718f365ac04" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/936d0f8c-0871-4d81-8adf-f3b7adf9678f" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/db94fe51-eaa3-48f9-aac9-297614a654f9" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/4facddbb-22d6-42b9-be74-4afda0fc14be" />
 
 
 
