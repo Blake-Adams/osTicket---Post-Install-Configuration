@@ -72,9 +72,10 @@ Online Banking
 
 </p>
 <br />
-Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
-Registration Required: Require registration and login to create tickets 
+
+- Allow anyone to create tickets
+- Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
+- Registration Required: Require registration and login to create tickets 
 
 
 </p>
@@ -97,6 +98,7 @@ John (Dept: Support)
 </p>
 <br />
 
+<img width="1362" height="767" alt="image" src="https://github.com/user-attachments/assets/bb45e40c-b3b3-49ec-a08e-c7cb2dcb3807" />
 
 </p>
 <br />
@@ -108,6 +110,34 @@ John (Dept: Support)
 
 </p>
 <br />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a8d2475e-7f25-4d17-8fb5-b595da519757" />
+<img width="1365" height="752" alt="image" src="https://github.com/user-attachments/assets/66786fa8-8b9c-4357-b76f-2e7c17ada3fb" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/e70a11e3-833c-4041-a21e-7ecc2e98dfd4" />
+
+
+</p>
+<br />
+
+- Configure Help Topics (For when users create a ticket)
+- Admin Panel -> Manage -> Help Topics
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
+
+
+
+</p>
+<br />
+
+
+
+
+</p>
+<br />
+
+
 
 
 </p>
